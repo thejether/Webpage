@@ -1,0 +1,30 @@
+
+.control-label{
+  offs
+}
+.blank-left-side{
+  width: 10%;
+}
+.blank-right-side{
+  width: 10%;
+}
+.main-center{
+  width: 80%;
+}
+
+body{
+  background-color: #d9d9d9;
+  text-align: center;
+}
+
+.Intro-text{
+  padding: 5%;
+}
+
+.bottom-text{
+  padding: 2%;
+}
+.main{
+  padding: 2%;
+
+}
